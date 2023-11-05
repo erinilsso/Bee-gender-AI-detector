@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pictures_hive1</folder>
+	<filename>beehive-2020-08-15_10-36-06.jpg</filename>
+	<path>C:\Users\ernil\Documents\hllbar\Bildur\raw_data-002\Raw data\Pictures LE\pictures_hive1\beehive-2020-08-15_10-36-06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3280</width>
+		<height>2464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unknown/bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>1704</ymin>
+			<xmax>456</xmax>
+			<ymax>1922</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Unknown/bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1397</xmin>
+			<ymin>1740</ymin>
+			<xmax>1741</xmax>
+			<ymax>2133</ymax>
+		</bndbox>
+	</object>
+</annotation>

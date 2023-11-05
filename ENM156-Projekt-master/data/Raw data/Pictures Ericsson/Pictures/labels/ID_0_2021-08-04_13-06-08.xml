@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pictures</folder>
+	<filename>ID_0_2021-08-04_13-06-08.jpeg</filename>
+	<path>C:\Users\Jamal\Desktop\Chalmers\DataTeknik-19\DataAk3\LP2\ENM156_Hållbar_utveckling_och_etik_inom_datateknik\DATA\raw_data\Raw data\Pictures Ericsson\Pictures\ID_0_2021-08-04_13-06-08.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Worker/female</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>446</xmin>
+			<ymin>156</ymin>
+			<xmax>505</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

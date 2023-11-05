@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pictures</folder>
+	<filename>ID_0_2021-08-09_12-22-54.jpeg</filename>
+	<path>C:\Users\Jamal\Desktop\Chalmers\DataTeknik-19\DataAk3\LP2\ENM156_Hållbar_utveckling_och_etik_inom_datateknik\DATA\raw_data\Raw data\Pictures Ericsson\Pictures\ID_0_2021-08-09_12-22-54.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Unknown/bee</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>603</xmin>
+			<ymin>176</ymin>
+			<xmax>640</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

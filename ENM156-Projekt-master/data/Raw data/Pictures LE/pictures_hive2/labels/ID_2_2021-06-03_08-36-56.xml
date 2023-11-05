@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pictures_hive2</folder>
+	<filename>ID_2_2021-06-03_08-36-56.jpeg</filename>
+	<path>/home/damastah/Documents/Chalmers/Y3/LP2/ENM156/ENM156-Projekt/data/Raw data/Pictures LE/pictures_hive2/ID_2_2021-06-03_08-36-56.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Worker/female</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>487</ymin>
+			<xmax>419</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Worker/female</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>583</xmin>
+			<ymin>523</ymin>
+			<xmax>804</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+</annotation>

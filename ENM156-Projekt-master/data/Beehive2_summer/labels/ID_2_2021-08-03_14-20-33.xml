@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New Males</folder>
+	<filename>ID_2_2021-08-03_14-20-33.jpeg</filename>
+	<path>C:\Users\Jamal\Desktop\Chalmers\DataTeknik-19\DataAk3\LP2\ENM156_Hållbar_utveckling_och_etik_inom_datateknik\DATA\raw_data\Raw data\New Males\ID_2_2021-08-03_14-20-33.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Drone/male</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>989</xmin>
+			<ymin>543</ymin>
+			<xmax>1139</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

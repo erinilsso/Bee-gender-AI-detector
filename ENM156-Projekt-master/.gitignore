@@ -1,0 +1,13 @@
+# Don't sync actual images
+*.png
+*.jpg
+*.jpeg
+
+data/obj
+
+labels.txt
+
+# Weird macOS thing
+.DS_Store
+
+checkpoints

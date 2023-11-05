@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>hive032.jpg</filename>
+	<path>C:\Users\Gustaf\Desktop\Training Data Bees\pollen_detection_data\images\hive032.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Worker/female</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>118</ymin>
+			<xmax>482</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Unknown/bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>538</xmin>
+			<ymin>172</ymin>
+			<xmax>586</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

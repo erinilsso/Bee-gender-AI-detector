@@ -1,0 +1,111 @@
+%LaTeX-inställningar%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Kompliera med pdflatex om du använder VS!
+\pagenumbering{arabic}
+\documentclass[a4paper, 10pt]{article}
+
+\usepackage[utf8x]{inputenc}
+\usepackage[swedish]{babel}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage[yyyymmdd]{datetime}
+
+
+\usepackage{url} 
+\def\UrlBreaks{\do\/\do-}
+
+\usepackage{geometry} 
+\usepackage{makecell}
+\geometry{a4paper} 
+\geometry{margin=1in}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand\theadalign{bc}
+\renewcommand\theadfont{\bfseries}
+\renewcommand\theadgape{\Gape[4pt]}
+\renewcommand\cellgape{\Gape[4pt]}
+\renewcommand{\dateseparator}{--}
+
+
+%-----Förstasidan-----
+\title{%
+  \textbf{Projektrapport} \\
+  \large Projektrapport}
+
+\author{ Filip Anjou, Erik Nilsson, Gustaf Bodin, Ludvig Lemner, Hamid Hosseini, Jamal Aldiwani}
+        
+\date{\today}
+%---------------------
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+\newpage
+
+\tableofcontents
+\thispagestyle{empty}
+\newpage
+
+
+\label{ch:ordlista}
+\section*{Ordlista}
+
+\textbf {bla bla bla} - en samling av processorarkitekturer för maskiner med begränsad uppsättning av instruktioner.
+\\
+\\
+\textbf {bla bla bla} - en samling av processorarkitekturer för maskiner med begränsad uppsättning av instruktioner.
+\\
+\\
+\textbf {bla bla bla} - en samling av processorarkitekturer för maskiner med begränsad uppsättning av instruktioner.
+\\
+\\
+\textbf {bla bla bla} - en samling av processorarkitekturer för maskiner med begränsad uppsättning av instruktioner.
+\\
+\\
+
+
+
+\label{ch:introduktion}
+\section{Introduktion}
+
+\subsection{Mål}
+
+\subsection{Syfte}
+
+
+
+\label{ch:tekniskbeskrivning}
+\section{Teknisk beskrivning}
+\subsection{Bakgrund}
+
+
+\label{ch:metod}
+\section{Metod}
+\subsection{X}
+\subsection{Y}
+\subsection{Z}
+
+
+
+
+
+\label{ch:resultat}
+\section{Resultat}
+\subsection{X}
+\subsection{Y}
+\subsection{Z}
+
+
+
+
+\include{Slutsatser/slutsatser}
+\label{ch:slutsatser}
+\section{Slutsatser}
+\subsection{X}
+\subsection{Y}
+\subsection{Z}
+
+\bibliographystyle{IEEEtran}
+\bibliography{sources}
+
+\end{document}
